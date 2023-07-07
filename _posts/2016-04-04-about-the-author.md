@@ -2,7 +2,7 @@
 layout: post
 title: "A propos"
 author: "Very Good Trip"
-categories: presentation
+categories: offres
 tags: [apropos]
 image: metz-1.jpg
 ---
