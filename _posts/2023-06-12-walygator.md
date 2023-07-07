@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A propos"
+title: "Walygator Maizières"
 author: "Very Good Trip"
 categories: offres
 tags: [Walygator]
