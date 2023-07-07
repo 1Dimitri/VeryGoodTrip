@@ -3,7 +3,7 @@ layout: post
 title: "A propos"
 author: "Very Good Trip"
 categories: offres
-tags: [apropos]
+tags: [Walygator]
 image: walygator-1.jpg
 ---
 
