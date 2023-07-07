@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
+title: A propos 
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Very Good Trip vous propose les meilleures offres de loisir près de chez vous
+Pour en savoir plus, consultez [notre présentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
